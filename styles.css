@@ -1,0 +1,35 @@
+/* colour refs
+#99CCFF (sky blue)
+*/
+
+/* img links
+https://files.strawcdn.com/straw/bQmHxpJQhXEtkPNybydS.jpg
+*/
+ 
+/* style */
+ 
+body {
+  background-color: #99CCFF;
+  color: white;
+  font-family: "courier new", Monospace;
+  margin: 0;
+}
+
+.aboutBox
+{box-sizing: border-box;
+  border: 2px solid rgb(96 139 168);
+  border-radius: 5px;
+}
+
+.aboutInfo {
+  background-color: white;
+  text-align: center;
+}
+
+.bannerStyle
+{ margin: auto;
+  display: flex;
+  position: static;
+  padding: 20px;
+  width: 800px;
+}
