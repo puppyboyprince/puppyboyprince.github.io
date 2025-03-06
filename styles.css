@@ -17,7 +17,7 @@ body
 
 .bannerStyle
 { box-sizing: border-box;
-  margin: auto;
+  margin-top: 10px;
   display: flex;
   position: static;
   padding: 20px;
