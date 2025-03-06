@@ -37,7 +37,6 @@ body
   text-align: center;
   position: static;
   flex-direction: row;
-  flex-basis: auto;
   border: 2px dotted black;
   border-radius: 5px;
   background-color: aqua;
