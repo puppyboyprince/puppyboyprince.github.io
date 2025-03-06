@@ -39,9 +39,9 @@ body {
 }
 
 .content
-{ margin:auto;
+{ margin: auto;
   display: grid
-  position: static;
+ position: static;
   border: 2px dotted black;
   border-radius: 2px;
 }
