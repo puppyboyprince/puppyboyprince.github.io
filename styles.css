@@ -42,7 +42,6 @@ body
 { background-color: red;
   margin: auto;
   max-width: 200px;
-  max-height: 600px;
   display: flex;
   flex-direction: column;
   text-align: center;
