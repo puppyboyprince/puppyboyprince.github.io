@@ -41,7 +41,6 @@ body {
 .content
 { margin: auto;
   display: grid
- position: static;
   border: 2px dotted black;
   border-radius: 2px;
 }
