@@ -67,6 +67,9 @@ body
 { box-sizing: border-box;
   background-color: blue;
   text-align: center;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
 }
 
 .middleIntro
@@ -77,4 +80,7 @@ body
 { box-sizing: border-box;
   background-color: yellow;
   text-align: center;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
 }
