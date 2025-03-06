@@ -46,7 +46,7 @@ body
 .leftContent
 { box-sizing: border-box;
   background-color: red;
-  margin: auto;
+  margin-right:20px;
   flex: 1 1 0;
   display: flex;
   padding: 3px;
@@ -96,7 +96,7 @@ h2.middleInfo
 { box-sizing: border-box;
   background-color: yellow;
   text-align: center;
-  margin: auto;
+  margin-left:20px;
   padding: 3px;
   display: flex;
   flex: 1 1 0;
