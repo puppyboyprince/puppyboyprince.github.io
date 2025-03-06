@@ -21,7 +21,7 @@ body
   display: flex;
   position: static;
   padding: 20px;
-  max-width: 800px;
+  width: 800px;
   height: 150px;
   text-align: center;
   border: 2px solid white;
@@ -32,7 +32,7 @@ body
 { box-sizing: border-box;
   margin: auto;
   display: grid;
-  width: 800px;
+  max-width: 800px;
   text-align: center;
   position: static;
   grid-template-columns: 1fr 2fr 1fr;
