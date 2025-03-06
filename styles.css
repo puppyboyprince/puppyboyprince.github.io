@@ -8,8 +8,8 @@ https://files.strawcdn.com/straw/bQmHxpJQhXEtkPNybydS.jpg
  
 /* style */
  
-body {
-  background-color: #99CCFF;
+body 
+{ background-color: #99CCFF;
   color: white;
   font-family: "courier new", Monospace;
   margin: 0;
@@ -35,10 +35,12 @@ body {
   column-gap: 10px;
   border: 2px dotted black;
   border-radius: 2px;
+  background-color: aqua;
 }
 
 .leftContent
-{ margin: auto;
+{ background-color: red;
+  margin: auto;
   max-width: 200px;
   max-height: 600px;
   display: flex;
@@ -50,13 +52,15 @@ body {
 { width: 100%;
   margin: auto;
   text-align: center;
-  border: 2px solid white;
+}
+
+.aboutInfo 
+{ background-color: white;
+  text-align: center;
+  border: 1px dotted white;
   border-radius: 5px;
 }
 
-.aboutInfo {
-  background-color: white;
-  text-align: center;
-  border: 2px dotted white;
-  border-radius: 5px;
+.middlecontent
+{ background-color: blue;
 }
