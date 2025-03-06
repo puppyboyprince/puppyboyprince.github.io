@@ -52,6 +52,7 @@ body
   padding: 3px;
   flex-direction: column;
   text-align: center;
+  border: 2px dotted white;
 }
 
 .aboutBox
@@ -76,6 +77,7 @@ body
   display: flex;
   flex: 2 1 0;
   flex-direction: column;
+  border: 2px dotted white;
 }
 
 .middleInfo
@@ -99,6 +101,7 @@ h2.middleInfo
   display: flex;
   flex: 1 1 0;
   flex-direction: column;
+  border: 2px dotted white;
 }
 
 .rightUpd
