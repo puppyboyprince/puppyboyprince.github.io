@@ -37,6 +37,7 @@ body
   text-align: center;
   position: static;
   flex-direction: row;
+  flex-basis: auto;
   border: 2px dotted black;
   border-radius: 5px;
   background-color: aqua;
@@ -48,7 +49,6 @@ body
   margin: auto;
   flex: 1 1 0;
   display: flex;
-  max-width: 100%;
   padding: 3px;
   flex-direction: column;
   text-align: center;
@@ -56,7 +56,6 @@ body
 
 .aboutBox
 { box-sizing: border-box;
-  width: 100%;
   margin: auto;
   text-align: center;
 }
@@ -70,7 +69,6 @@ body
 
 .middleContent
 { box-sizing: border-box;
-  max-width: 100%;
   padding: 3px;
   background-color: blue;
   text-align: center;
@@ -85,7 +83,6 @@ body
   background-color: darkblue;
   text-align: center;
   margin: auto;
-  max-width: 100%;
 }
 
 h2.middleInfo
@@ -97,7 +94,6 @@ h2.middleInfo
   background-color: yellow;
   text-align: center;
   margin: auto;
-  max-width: 100%;
   padding: 3px;
   display: flex;
   flex: 1 1 0;
