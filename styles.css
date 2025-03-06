@@ -30,6 +30,8 @@ body
 { margin: auto;
   display: grid;
   width: 800px;
+  padding: 20px;
+  text-align: center;
   position: static;
   grid-template-columns: 1fr 2fr 1fr;
   column-gap: 10px;
@@ -41,7 +43,6 @@ body
 .leftContent
 { background-color: red;
   margin: auto;
-  max-width: 200px;
   display: flex;
   flex-direction: column;
   text-align: center;
