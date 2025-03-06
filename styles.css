@@ -48,6 +48,8 @@ body
   background-color: red;
   margin: auto;
   display: flex;
+  width: 100%;
+  padding: 3px;
   flex-direction: column;
   text-align: center;
 }
@@ -68,6 +70,8 @@ body
 
 .middleContent
 { box-sizing: border-box;
+  width: 100%;
+  padding: 3px;
   background-color: blue;
   text-align: center;
   margin: auto;
@@ -92,6 +96,8 @@ h2.middleInfo
   background-color: yellow;
   text-align: center;
   margin: auto;
+  width: 100%;
+  padding: 3px;
   display: flex;
   flex-direction: column;
 }
