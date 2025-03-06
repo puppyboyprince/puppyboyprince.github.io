@@ -33,6 +33,7 @@ body
 { box-sizing: border-box;
   margin: auto;
   display: flex;
+  padding: 20px;
   width: 800px;
   text-align: center;
   position: static;
