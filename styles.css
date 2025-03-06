@@ -37,6 +37,7 @@ body
   position: static;
   grid-template-columns: 1fr 2fr 1fr;
   column-gap: 8px;
+  column-count: 4;
   border: 2px dotted black;
   border-radius: 5px;
   background-color: aqua;
