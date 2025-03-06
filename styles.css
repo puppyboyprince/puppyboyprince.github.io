@@ -50,13 +50,11 @@ body {
 { width: 100%;
   margin: auto;
   text-align: center;
-  border: 2px solid white;
-  border-radius: 5px;
 }
 
 .aboutInfo {
   background-color: white;
   text-align: center;
-  border: 2px dotted white;
+  border: 1px dotted white;
   border-radius: 5px;
 }
