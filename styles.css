@@ -82,6 +82,10 @@ body
   width: 100%;
 }
 
+h2.middleInfo
+{
+}
+
 .rightContent
 { box-sizing: border-box;
   background-color: yellow;
