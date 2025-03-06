@@ -16,7 +16,7 @@ body {
 }
 
 .aboutBox
-{box-sizing: border-box;
+{ width: 100%;
   border: 2px solid white;
   border-radius: 5px;
 }
