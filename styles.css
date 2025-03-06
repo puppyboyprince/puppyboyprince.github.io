@@ -50,5 +50,6 @@ body {
 }
 
 .leftContent
-{max-width: 200px;
+{ margin: auto;
+  max-width: 200px;
 }
