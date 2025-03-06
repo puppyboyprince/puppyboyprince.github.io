@@ -50,6 +50,7 @@ body
   flex: 1 1 0;
   display: flex;
   padding: 3px;
+  width: min-content;
   flex-direction: column;
   text-align: center;
 }
@@ -72,6 +73,7 @@ body
   padding: 3px;
   background-color: blue;
   text-align: center;
+  width: min-content;
   margin: auto;
   display: flex;
   flex: 2 1 0;
@@ -97,6 +99,7 @@ h2.middleInfo
   margin: auto;
   padding: 3px;
   display: flex;
+  width: min-content;
   flex: 1 1 0;
   flex-direction: column;
 }
