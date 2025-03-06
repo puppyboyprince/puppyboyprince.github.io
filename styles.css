@@ -50,5 +50,5 @@ body {
 }
 
 .leftContent
-{
+{max-width: 200px;
 }
