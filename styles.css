@@ -62,5 +62,6 @@ body
 }
 
 .middlecontent
-{ background-color: blue;
+{ background-color: green;
+  text-align: center;
 }
