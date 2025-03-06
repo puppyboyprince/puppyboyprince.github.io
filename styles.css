@@ -22,6 +22,7 @@ body
   position: static;
   padding: 20px;
   width: 800px;
+  height: 300px;
   text-align: center;
   border: 2px solid white;
   border-radius: 5px;
