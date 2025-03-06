@@ -37,3 +37,11 @@ body {
   border: 2px solid white;
   border-radius: 5px;
 }
+
+.content
+{ margin:auto;
+  display: grid
+  position: static;
+  border: 2px dotted black;
+  border-radius: 2px;
+}
