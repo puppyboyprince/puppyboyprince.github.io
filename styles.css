@@ -98,6 +98,7 @@ h2.middleInfo
 .rightUpd
 {
 
+  overflow: scroll;
 }
 
 .rightNav
