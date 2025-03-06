@@ -16,7 +16,8 @@ body
 }
 
 .bannerStyle
-{ margin: auto;
+{ box-sizing: border-box;
+  margin: auto;
   display: flex;
   position: static;
   padding: 20px;
@@ -27,7 +28,8 @@ body
 }
 
 .content
-{ margin: auto;
+{ box-sizing: border-box;
+  margin: auto;
   display: grid;
   width: 800px;
   text-align: center;
@@ -40,7 +42,8 @@ body
 }
 
 .leftContent
-{ background-color: red;
+{ box-sizing: border-box;
+  background-color: red;
   margin: auto;
   display: flex;
   flex-direction: column;
@@ -61,7 +64,8 @@ body
 }
 
 .middleContent
-{ background-color: blue;
+{ box-sizing: border-box;
+  background-color: blue;
   text-align: center;
 }
 
@@ -70,6 +74,7 @@ body
 }
 
 .rightContent
-{ background-color: yellow;
+{ box-sizing: border-box;
+  background-color: yellow;
   text-align: center;
 }
