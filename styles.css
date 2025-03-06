@@ -41,6 +41,8 @@ body {
 .content
 { margin: auto;
   display: grid;
+  width: 800px;
+  position: static;
   grid-template-columns: 1fr 2fr 1fr;
   column-gap: 10px;
   border: 2px dotted black;
