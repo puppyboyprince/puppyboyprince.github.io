@@ -35,6 +35,7 @@ body
   column-gap: 10px;
   border: 2px dotted black;
   border-radius: 2px;
+  background-color: aqua;
 }
 
 .leftContent
@@ -48,7 +49,8 @@ body
 }
 
 .aboutBox
-{ width: 100%;
+{ background-color: purple;
+  width: 100%;
   margin: auto;
   text-align: center;
 }
