@@ -64,6 +64,7 @@ body
   margin: auto;
   text-align: center;
   background-color: pink;
+  border: 1px dotted white;
 }
 
 .aboutInfo 
