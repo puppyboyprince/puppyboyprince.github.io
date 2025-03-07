@@ -33,6 +33,10 @@ div.bannerStyle
   border-radius: 5px;
 }
 
+img.bannerStyle
+{
+}
+
 .content
 { box-sizing: border-box;
   margin: auto;
