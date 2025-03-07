@@ -12,6 +12,8 @@ art https://files.strawcdn.com/straw/bQmHxpJQhXEtkPNybydS.jpg
 
 body 
 { background-color: #99CCFF;
+  background-image: url("https://files.strawcdn.com/straw/kzECHHWqcxvnmCOxwdxX.gif");
+  background-repeat: repeat repeat;
   color: white;
   font-size: 1em;
   font-family: "courier new", Monospace;
@@ -83,8 +85,6 @@ body
 
 .middleInfo
 { box-sizing: border-box;
-  background-image: url("http://theinspirationgallery.com/wallpaper/damask/images/wp_damask_187.gif");
-  background-repeat: repeat repeat;
   background-color: darkblue;
   text-align: center;
   margin: auto;
