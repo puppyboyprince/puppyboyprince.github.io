@@ -106,8 +106,10 @@ h2.middleInfo
 }
 
 .rightUpd
-{
-
+{ box-sizing: border-box;
+  text-align: center;
+  background-color: green;
+  border: 2px dotted red;
   overflow: scroll;
 }
 
@@ -117,7 +119,8 @@ h2.middleInfo
 }
 
 .decorButtonStyle
-{ width: 88px;
+{ box-sizing: border-box;
+  width: 88px;
   height: 31px;
 
 }
