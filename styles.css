@@ -82,6 +82,8 @@ body
 
 .middleInfo
 { box-sizing: border-box;
+  background-image: url("mdn_logo_only_color.png");
+  background-repeat: repeat repeat;
   background-color: darkblue;
   text-align: center;
   margin: auto;
