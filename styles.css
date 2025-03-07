@@ -20,7 +20,7 @@ body
   margin: 0;
 }
 
-.bannerStyle
+div.bannerStyle
 { box-sizing: border-box;
   margin-top: 10px;
   display: flex;
