@@ -34,7 +34,8 @@ div.bannerStyle
 }
 
 img.bannerStyle
-{
+{ image-rendering: auto;
+  object-fit: cover;
 }
 
 .content
