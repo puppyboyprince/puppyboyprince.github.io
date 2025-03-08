@@ -28,9 +28,9 @@ body
 }
 
 .bannerStyle
-{ background-image: url("https://files.strawcdn.com/straw/eKryPgCfvXsMAtfhZBFi.jpeg");
+{ background-image: url("");
   background-size: cover;
-  background-color: yellow;
+  background-color: navy;
   box-sizing: border-box;
   margin-top: 10px;
   display: flex;
