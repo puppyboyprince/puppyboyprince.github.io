@@ -21,8 +21,11 @@ body
   margin: 0;
 }
 
-div.bannerStyle
-{ box-sizing: border-box;
+bannerStyle
+{ background-image: url("https://files.strawcdn.com/straw/eKryPgCfvXsMAtfhZBFi.jpeg");
+  background-size: cover;
+  background-color: yellow;
+  box-sizing: border-box;
   margin-top: 10px;
   display: flex;
   position: static;
