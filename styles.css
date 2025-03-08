@@ -149,6 +149,7 @@ h2.middleInfo
 .containStampStyle
 { box-sizing: border-box;
   background-color: fuchsia;
+  flex-direction: row;
  
 }
 
