@@ -160,5 +160,6 @@ h2.middleInfo
 }
 
 .stampStyle
-{
+{ width: 99px;
+  height: 57px;
 }
