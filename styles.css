@@ -141,16 +141,23 @@ h2.middleInfo
   overflow: scroll;
 }
 
-.decorButtonStyle
+.containButtonStyle
 { box-sizing: border-box;
-  width: 88px;
-  height: 31px;
-
+  background-color: fuchsia;
 }
 
-.decorStampStyle
+.containStampStyle
 { box-sizing: border-box;
+  background-color: fuchsia;
+ 
+}
+
+.buttonStyle
+{
   width: 88px;
   height: 31px;
+}
 
+.stampStyle
+{
 }
