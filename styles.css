@@ -34,11 +34,6 @@ div.bannerStyle
   border-radius: 5px;
 }
 
-img.bannerStyle
-{ image-rendering: auto;
-  object-fit: cover;
-}
-
 .content
 { box-sizing: border-box;
   margin: auto;
