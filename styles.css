@@ -27,7 +27,7 @@ body
   margin: 0;
 }
 
-bannerStyle
+.bannerStyle
 { background-image: url("https://files.strawcdn.com/straw/eKryPgCfvXsMAtfhZBFi.jpeg");
   background-size: cover;
   background-color: yellow;
