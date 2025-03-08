@@ -147,3 +147,10 @@ h2.middleInfo
   height: 31px;
 
 }
+
+.decorStampStyle
+{ box-sizing: border-box;
+  width: 88px;
+  height: 31px;
+
+}
