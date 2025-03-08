@@ -11,11 +11,17 @@ art https://files.strawcdn.com/straw/bQmHxpJQhXEtkPNybydS.jpg
  
 /* style */
 
-body 
+html
 { background-image: url("https://files.strawcdn.com/straw/kzECHHWqcxvnmCOxwdxX.gif");
   background-repeat: repeat, repeat;
   background-color: #99CCFF;
   color: white;
+  font-size: 1em;
+  font-family: "courier new", Monospace;
+}
+
+body 
+{ color: white;
   font-size: 1em;
   font-family: "courier new", Monospace;
   margin: 0;
