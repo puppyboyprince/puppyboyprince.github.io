@@ -31,8 +31,10 @@ body
 { background-image: url("");
   background-size: cover;
   background-color: navy;
+  background-clip: content-box;
   box-sizing: border-box;
   margin-top: 10px;
+  padding: 10px;
   display: flex;
   position: static;
   width: 800px;
