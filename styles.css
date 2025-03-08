@@ -81,6 +81,13 @@ img.bannerStyle
   border-radius: 5px;
 }
 
+.aboutPicture
+{ box-sizing: border-box;
+  background-color: white;
+  width: 100px;
+  height: 100px;
+}
+
 .middleContent
 { box-sizing: border-box;
   background-color: blue;
