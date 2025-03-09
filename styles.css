@@ -96,6 +96,7 @@ body
 .aboutPicture
 { box-sizing: border-box;
   background-color: white;
+  margin: auto;
   width: 125px;
   height: 125px;
 }
