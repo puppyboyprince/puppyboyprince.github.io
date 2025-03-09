@@ -67,7 +67,7 @@ body
 
 .leftContent
 { box-sizing: border-box;
-  background-color: red;
+  background-color: lightgreen;
   margin: auto;
   flex: 1 1 0;
   display: flex;
