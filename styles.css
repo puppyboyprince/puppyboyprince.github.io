@@ -131,7 +131,6 @@ h2.middleInfo
   background-color: teal;
   border: 2px dotted olive;
   overflow: scroll;
-  margin-top: 4px;
 }
 
 .rightUpdate
@@ -140,6 +139,7 @@ h2.middleInfo
   background-color: green;
   border: 2px dotted red;
   overflow: scroll;
+  margin-top: 4px;
 }
 
 .containButtonStyle
