@@ -126,18 +126,19 @@ h2.middleInfo
   border: 2px dotted white;
 }
 
+.rightNavigation
+{ box-sizing: border-box;
+  background-color: teal;
+  border: 2px dotted olive;
+  overflow: scroll;
+  margin-top: 4px;
+}
+
 .rightUpdate
 { box-sizing: border-box;
   text-align: center;
   background-color: green;
   border: 2px dotted red;
-  overflow: scroll;
-}
-
-.rightNavigation
-{ box-sizing: border-box;
-  background-color: teal;
-  border: 2px dotted olive;
   overflow: scroll;
 }
 
