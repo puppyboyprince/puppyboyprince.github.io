@@ -35,7 +35,7 @@ body
   margin: 0;
 }
 
-.bannerStyle
+#bannerStyle
 { background-image: url("https://files.strawcdn.com/straw/uMGvoTFQyevBPCbdCHxm.jpg");
   background-size: cover;
   background-color: navy;
