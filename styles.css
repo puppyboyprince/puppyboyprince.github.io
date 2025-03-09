@@ -160,6 +160,8 @@ h2.middleInfo
 .containButtonStyle
 { box-sizing: border-box;
   background-color: fuchsia;
+  flex-flow: row wrap;
+  border: 1px dotted white;
 }
 
 .containStampStyle
