@@ -155,6 +155,7 @@ h2.middleInfo
   background-color: fuchsia;
   flex-flow: row wrap;
   border: 1px dotted white;
+  max-width:100%;
 }
 
 .containStampStyle
