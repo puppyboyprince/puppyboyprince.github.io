@@ -94,13 +94,6 @@ body
   height: 125px;
 }
 
-.buttonBox
-{box-sizing: border-box;
- background-color: teal;
- border: 1px dotted white;
-  
-}
-
 .featuredBox
 { box-sizing: border-box;
   background-color: gray;
