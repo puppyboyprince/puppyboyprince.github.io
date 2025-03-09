@@ -7,7 +7,7 @@
 /* img links
 bg cloud https://files.strawcdn.com/straw/kzECHHWqcxvnmCOxwdxX.gif
 bg http://theinspirationgallery.com/wallpaper/damask/images/wp_damask_187.gif
-banner https://files.strawcdn.com/straw/MGgnmLkMXqlIanbfNpQd.jpg
+banner https://files.strawcdn.com/straw/uMGvoTFQyevBPCbdCHxm.jpg
 art https://files.strawcdn.com/straw/bQmHxpJQhXEtkPNybydS.jpg
 */
 
@@ -36,7 +36,7 @@ body
 }
 
 .bannerStyle
-{ background-image: url("https://files.strawcdn.com/straw/MGgnmLkMXqlIanbfNpQd.jpg");
+{ background-image: url("https://files.strawcdn.com/straw/uMGvoTFQyevBPCbdCHxm.jpg");
   background-size: cover;
   background-color: navy;
   background-clip: content-box;
