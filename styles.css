@@ -59,9 +59,9 @@ body
   text-align: center;
   position: static;
   flex-direction: row;
-  border: 2px dotted black;
+  border: 2px dotted aqua;
   border-radius: 5px;
-  background-color: aqua;
+  background-color: transparent;
   column-gap: 8px;
 }
 
