@@ -55,7 +55,7 @@ body
   margin: auto;
   display: flex;
   padding: 10px;
-  width: 1000px;
+  width: 100%;
   text-align: center;
   position: static;
   flex-direction: row;
