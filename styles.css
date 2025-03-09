@@ -94,6 +94,12 @@ body
   height: 125px;
 }
 
+.featuredBox
+{ box-sizing: border-box;
+  background-color: gray;
+  border: 1px solid navy;
+}
+
 .middleContent
 { box-sizing: border-box;
   background-color: blue;
