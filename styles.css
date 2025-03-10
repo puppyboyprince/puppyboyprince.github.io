@@ -76,8 +76,6 @@ body
   justify-content: center;
   text-align: center;
   border-image-repeat: round;
-  border-image-slice: 8;
-  border-image-width: 1;
   border-left-width: 10px;
   border-right-width: 10px;
   border-top-width: 10px;
