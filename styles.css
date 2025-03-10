@@ -230,7 +230,7 @@ h2.middleInfo
 
 .cloudBorder
 { box-sizing: border-box;
-  width: 100%
+  width: 100%;
   background-color: transparent;
   border: 5px solid white;
   margin: auto;
