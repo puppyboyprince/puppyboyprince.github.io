@@ -64,6 +64,9 @@ body
   border-radius: 5px;
   background-color: transparent;
   column-gap: 8px;
+  border-image-repeat: round;
+  border-image-slice: 8 fill;
+  border-image-source:
 }
 
 .leftContent
