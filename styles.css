@@ -83,6 +83,7 @@ body
 { box-sizing: border-box;
   margin: auto;
   text-align: center;
+  padding: 5px;
   background-color: #F4F7FF;
   width: 100%;
   border: 5px solid white;
