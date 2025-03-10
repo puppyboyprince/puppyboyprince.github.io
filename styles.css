@@ -68,7 +68,7 @@ body
 
 .leftContent
 { box-sizing: border-box;
-  background-color: lightgreen;
+  background-color: transparent;
   margin: auto;
   flex: 1 1 0;
   display: flex;
@@ -118,7 +118,7 @@ body
 
 .middleContent
 { box-sizing: border-box;
-  background-color: blue;
+  background-color: transparent;
   text-align: center;
   margin: auto;
   display: flex;
@@ -149,7 +149,7 @@ h2.middleInfo
 
 .rightContent
 { box-sizing: border-box;
-  background-color: yellow;
+  background-color: transparent;
   text-align: center;
   margin: auto;
   display: flex;
