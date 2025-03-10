@@ -149,6 +149,11 @@ h2.middleInfo
   overflow: scroll;
 }
 
+.listNavigation
+{
+  
+}
+
 .rightUpdate
 { box-sizing: border-box;
   text-align: center;
