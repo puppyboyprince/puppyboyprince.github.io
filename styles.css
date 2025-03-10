@@ -122,6 +122,7 @@ body
   display: flex;
   flex: 2 1 0;
   flex-direction: column;
+  border: 5px solid white;
   border-image-repeat: round;
   border-image-slice: 8;
   border-image-width: 1;
