@@ -156,7 +156,7 @@ h2.middleInfo
 
 @counter-style navSymbol
 { system: cyclic;
-  symbols: "\2023";
+  symbols: "\2023" "\2023";
   
 }
 
