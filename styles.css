@@ -77,6 +77,11 @@ body
   text-align: center;
   border-image-repeat: round;
   border-image-slice: 8 fill;
+  border-image-width: 1;
+  border-left-width: 10px;
+  border-right-width: 10px;
+  border-top-width: 10px;
+  border-bottom-width:10px;
   border-image-source: url("https://files.strawcdn.com/straw/GSopLeHoZTFcNUlbaWAp.png");
 }
 
@@ -120,6 +125,11 @@ body
   flex-direction: column;
   border-image-repeat: round;
   border-image-slice: 8 fill;
+  border-image-width: 1;
+  border-left-width: 10px;
+  border-right-width: 10px;
+  border-top-width: 10px;
+  border-bottom-width:10px;
   border-image-source: url("https://files.strawcdn.com/straw/GSopLeHoZTFcNUlbaWAp.png");
 }
 
@@ -145,6 +155,11 @@ h2.middleInfo
   flex-direction: column;
   border-image-repeat: round;
   border-image-slice: 8 fill;
+  border-image-width: 1;
+  border-left-width: 10px;
+  border-right-width: 10px;
+  border-top-width: 10px;
+  border-bottom-width:10px;
   border-image-source: url("https://files.strawcdn.com/straw/GSopLeHoZTFcNUlbaWAp.png");
 }
 
