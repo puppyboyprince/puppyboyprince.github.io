@@ -150,7 +150,7 @@ h2.middleInfo
 }
 
 .listNavigation
-{ list-style: navSymbol;
+{ list-style-type: navSymbol;
   
 }
 
