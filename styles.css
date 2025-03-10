@@ -2,6 +2,7 @@
 #99CCFF (sky blue)
 #eff7fa (white blue)
 #eff3f8 (white steel blue)
+#F4F7FF (cloud box white)
 */
 
 /* img links
@@ -92,21 +93,19 @@ body
 { box-sizing: border-box;
   margin: auto;
   text-align: center;
-  background-color: pink;
-  border: 1px dotted white;
+  background-color: #F4F7FF;
 }
 
 .aboutInfo 
 { box-sizing: border-box;
-  background-color: white;
+  background-color: #F4F7FF;
   text-align: center;
-  border: 1px dotted white;
-  border-radius: 5px;
+  margin: auto;
 }
 
 .aboutPicture
 { box-sizing: border-box;
-  background-color: white;
+  background-color: green;
   margin: auto;
   width: 125px;
   height: 125px;
