@@ -166,7 +166,6 @@ h2.middleInfo
   background-color: green;
   border: 2px dotted red;
   overflow: scroll;
-  margin-top: 4px;
 }
 
 .rightToDo
@@ -175,7 +174,6 @@ h2.middleInfo
   background-color: blue;
   border: 2px dotted yellow;
   overflow: scroll;
-  margin-top: 2px;
 }
 
 .chatbox
