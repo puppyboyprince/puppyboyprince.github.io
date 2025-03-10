@@ -68,7 +68,7 @@ body
 
 .leftContent
 { box-sizing: border-box;
-  background-color: #F4F7FF;
+  background-color: transparent;
   margin: auto;
   flex: 1 1 0;
   display: flex;
@@ -76,7 +76,6 @@ body
   justify-content: center;
   text-align: center;
   border: 5px solid white;
-  padding:5px;
   border-image-repeat: round;
   border-image-slice: 8;
   border-image-width: 1;
