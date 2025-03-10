@@ -201,6 +201,10 @@ h2.middleInfo
   margin-top: 2px;
 }
 
+.chatbox
+{ background-color: teal;
+}
+
 .containButtonStyle
 { box-sizing: border-box;
   background-color: fuchsia;
