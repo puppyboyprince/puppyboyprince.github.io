@@ -76,7 +76,7 @@ body
   justify-content: center;
   text-align: center;
   border-image-repeat: round;
-  border-image-slice: 8 fill;
+  border-image-slice: 8;
   border-image-width: 1;
   border-left-width: 10px;
   border-right-width: 10px;
@@ -125,7 +125,7 @@ body
   flex: 2 1 0;
   flex-direction: column;
   border-image-repeat: round;
-  border-image-slice: 8 fill;
+  border-image-slice: 8;
   border-image-width: 1;
   border-left-width: 10px;
   border-right-width: 10px;
@@ -156,7 +156,7 @@ h2.middleInfo
   flex: 1 1 0;
   flex-direction: column;
   border-image-repeat: round;
-  border-image-slice: 8 fill;
+  border-image-slice: 8;
   border-image-width: 1;
   border-left-width: 10px;
   border-right-width: 10px;
