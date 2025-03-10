@@ -77,6 +77,14 @@ body
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  }
+
+.aboutBox
+{ box-sizing: border-box;
+  margin: auto;
+  text-align: center;
+  background-color: #F4F7FF;
+  width: 100%;
   border: 5px solid white;
   border-image-repeat: round;
   border-image-slice: 8;
@@ -87,14 +95,6 @@ body
   border-bottom-width:8px;
   border-image-outset: 0;
   border-image-source: url("https://files.strawcdn.com/straw/GSopLeHoZTFcNUlbaWAp.png");
-}
-
-.aboutBox
-{ box-sizing: border-box;
-  margin: auto;
-  text-align: center;
-  background-color: #F4F7FF;
-  width: 100%;
 }
 
 .aboutInfo 
@@ -115,7 +115,17 @@ body
 .featuredBox
 { box-sizing: border-box;
   background-color: gray;
-  border: 1px solid navy;
+  border: 5px solid white;
+  margin-top: 10px;
+  border-image-repeat: round;
+  border-image-slice: 8;
+  border-image-width: 1;
+  border-left-width: 8px;
+  border-right-width: 8px;
+  border-top-width: 8px;
+  border-bottom-width:8px;
+  border-image-outset: 0;
+  border-image-source: url("https://files.strawcdn.com/straw/GSopLeHoZTFcNUlbaWAp.png");
 }
 
 .middleContent
