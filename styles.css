@@ -9,6 +9,7 @@ bg cloud https://files.strawcdn.com/straw/kzECHHWqcxvnmCOxwdxX.gif
 bg http://theinspirationgallery.com/wallpaper/damask/images/wp_damask_187.gif
 banner https://files.strawcdn.com/straw/uMGvoTFQyevBPCbdCHxm.jpg
 art https://files.strawcdn.com/straw/bQmHxpJQhXEtkPNybydS.jpg
+(cloud border) https://files.strawcdn.com/straw/GSopLeHoZTFcNUlbaWAp.png
 */
 
 /* buttons
@@ -66,7 +67,7 @@ body
   column-gap: 8px;
   border-image-repeat: round;
   border-image-slice: 8 fill;
-  border-image-source:
+  border-image-source: url("https://files.strawcdn.com/straw/GSopLeHoZTFcNUlbaWAp.png");
 }
 
 .leftContent
